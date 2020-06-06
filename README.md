@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Link to website-https://chatty-3f440.web.app/
+# Link to website-https://chattyy.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
